@@ -9,7 +9,10 @@ Un ejemplo de esto es si queremos crear la Clase Carro. La abstraccion necesaria
 
 ### Ejemplo en Código
 
+--------------------------------------------------------------------------------------
 ![image](https://github.com/OrlandH/Pilares_Poo/assets/117741739/35850231-cfb3-458e-8f2d-bde335085696)
+--------------------------------------------------------------------------------------
+
 
 
 En este caso sacamos del mundo real lo necesario para este programa : Que sonido y que nombre tiene algun animal. Asi que creamos la clase animal y subclases perro y gato. Con los metodos respectivos para hacer el programa
@@ -17,7 +20,11 @@ En este caso sacamos del mundo real lo necesario para este programa : Que sonido
 El resultado es:
 
 
+
+--------------------------------------------------------------------------------------
 ![image](https://github.com/OrlandH/Pilares_Poo/assets/117741739/422a56e9-45d2-40c6-8630-b7ab3066c8b6)
+--------------------------------------------------------------------------------------
+
 
 
 Como podemos ver, no se realiza abstraccion de elementos inecesarios como si sacaramos los atributos numero de crias, edad, etc. 
