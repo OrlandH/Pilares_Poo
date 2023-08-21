@@ -43,6 +43,20 @@ Deitel nos dice que es una excelente forma de hacer el código mas generico y fl
 
 ### Ejemplo en Código
 
+--------------------------------------------------------------------------------------
+![image](https://github.com/OrlandH/Pilares_Poo/assets/117741739/fd0c326c-e00d-4364-9738-ff15c0259ff9)
+--------------------------------------------------------------------------------------
+
+
+
+Usamos el mismo codigo que en Abstraccion solo que aumentando que el metodo **sonidopol** tiene una funcion propia, y dos clases derivadas respectivamente. 
+A todos los objetos creados (perro, gato, animal) le aplicamos el mismo metodo. Pero nos dara resultados diferentes gracias al metodo del polimorfismo. Dandonos como resultado lo siguiente sin necesidad de crear 3 metodos diferentes: 
+
+
+--------------------------------------------------------------------------------------
+![image](https://github.com/OrlandH/Pilares_Poo/assets/117741739/50c48fc4-0281-4d34-8cfe-96bf3daa3b6c)
+--------------------------------------------------------------------------------------
+
 ## Pilar 4: Encapsulamiento
 Se refiere a la combinacion de datos y metodos relacionados para poder ser llamados clases. Esto quiere decir que el uso unico de estos metodos y datos en cada clase es lo que les permite ser POO. Esto se puede definir sencillamente con el uso de modificadores de acceso como **public** , **private** o **protected** . Asi controlamos que parte del código se puede acceder a los miembros internos de una clase y da en este caso para la obtencion y modificacion de estos datos los getters y setters de una forma controlada. 
 
