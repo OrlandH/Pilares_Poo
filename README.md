@@ -8,7 +8,11 @@ Estas clases tienen y definen sus propias propiedades y metodos que permitan una
 Un ejemplo de esto es si queremos crear la Clase Carro. La abstraccion necesaria de sus propiedades adecuadas seria por ejemplo: marca, cilindraje, año. Y metodos como arrancar, frenar, etc. Como vemos, sacamos lo ideal para algun problema, no necesitamos extraer por ejemplo "Diametro de la llanta"
 
 ### Ejemplo en Código
-
+![image](https://github.com/OrlandH/Pilares_Poo/assets/117741739/35850231-cfb3-458e-8f2d-bde335085696)
+En este caso sacamos del mundo real lo necesario para este programa : Que sonido y que nombre tiene algun animal. Asi que creamos la clase animal y subclases perro y gato. Con los metodos respectivos para hacer el programa
+El resultado es:
+![image](https://github.com/OrlandH/Pilares_Poo/assets/117741739/422a56e9-45d2-40c6-8630-b7ab3066c8b6)
+Como podemos ver, no se realiza abstraccion de elementos inecesarios como si sacaramos los atributos numero de crias, edad, etc. 
 
 ## Pilar 2: Herencia
 Nos permite crear nuevas clases basadas en clases existentes. Algo asi como clases hijo, y clases padre donde el hijo podra tener caracteristicas de padre y las propias. Entre las caracteristicas que pasa, lo mas importante es que heredan atributos y metodos.
