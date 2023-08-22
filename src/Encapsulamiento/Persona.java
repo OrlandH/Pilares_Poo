@@ -1,6 +1,6 @@
 package Encapsulamiento;
 
-public class Person {
+public class Persona {
     private String name;
     private int age;
 
