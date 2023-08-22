@@ -37,10 +37,14 @@ Un ejemplo seria por ejemplo, tenemos la clase Mamifero con atributos como pelo,
 ### Ejemplo en Código
 
 --------------------------------------------------------------------------------------
-![image](https://github.com/OrlandH/Pilares_Poo/assets/119060037/630c9255-2c76-42fb-a7e2-1e971c4f762c)
+![image](https://github.com/OrlandH/Pilares_Poo/assets/119060037/3ce7da76-0e36-4fc9-a3ae-0b260288749a)
+
 --------------------------------------------------------------------------------------
 
-Creamos una clase padre llamada "Vehiculo" en donde tiene un atributo despues creamos otra clase que sera una subclase llamada "car" que contendra los atributos de su padre que en este caso es la clase "Vehiculo" y para finalizar creamos el main para crear una instancia donde llame a todos metodos de las diferentes clases.
+![image](https://github.com/OrlandH/Pilares_Poo/assets/119060037/4c68ce85-4d7d-4a13-91ba-e34bf8cbe97d)
+
+
+Creamos una clase padre llamada "auto" en donde tiene un atributo despues creamos otra clase que sera una subclase llamada "car" que contendra los atributos de su padre que en este caso es la clase "auto" y para finalizar creamos el main para crear una instancia donde llame a todos metodos de las diferentes clases.
 
 ## Pilar 3: Polimorfismo
 Es la capacidad de los objetos de diferente clases para ser tratados como objetos de una clase comun mediante clases abstractas e interfaces. 
