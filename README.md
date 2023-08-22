@@ -67,8 +67,8 @@ A todos los objetos creados (perro, gato, animal) le aplicamos el mismo metodo. 
 Se refiere a la combinacion de datos y metodos relacionados para poder ser llamados clases. Esto quiere decir que el uso unico de estos metodos y datos en cada clase es lo que les permite ser POO. Esto se puede definir sencillamente con el uso de modificadores de acceso como **public** , **private** o **protected** . Asi controlamos que parte del código se puede acceder a los miembros internos de una clase y da en este caso para la obtencion y modificacion de estos datos los getters y setters de una forma controlada. 
 
 ### Ejemplo en Código
-![image](https://github.com/OrlandH/Pilares_Poo/assets/102696740/7b07998b-22f1-4c83-8885-0899bba00f73)
 ![image](https://github.com/OrlandH/Pilares_Poo/assets/102696740/73025d89-ca47-4a52-bac0-967de8b27669)
+![image](https://github.com/OrlandH/Pilares_Poo/assets/102696740/7b07998b-22f1-4c83-8885-0899bba00f73)
 
 la clase Persona encapsula los datos relacionados con una persona (nombre y edad) utilizando métodos para acceder y modificar esos datos. Los miembros name y age son privados, lo que significa que solo pueden ser accedidos y modificados dentro de la misma clase. Los métodos públicos getName y getAge permiten obtener los valores de los miembros privados, mientras que los métodos setName y setAge permiten cambiar esos valores, con algunas restricciones en el caso de setAge.
 ![image](https://github.com/OrlandH/Pilares_Poo/assets/102696740/a1b32c31-144e-4ab9-8b33-8221bad87c8c)
