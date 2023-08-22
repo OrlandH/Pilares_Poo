@@ -36,6 +36,7 @@ Un ejemplo seria por ejemplo, tenemos la clase Mamifero con atributos como pelo,
 
 ### Ejemplo en Código
 
+
 ## Pilar 3: Polimorfismo
 Es la capacidad de los objetos de diferente clases para ser tratados como objetos de una clase comun mediante clases abstractas e interfaces. 
 Esto quiere decir que el codigo sera simplificado y sea necesario hacer varias cosas similares con clases que sean diferentes sin necesidad de modificar algun bucle, operacion, etc. 

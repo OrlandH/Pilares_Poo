@@ -10,8 +10,10 @@ class Perro extends Animal {
 class Gato extends Animal {
     @Override
     void sonido() {System.out.println("Meow!");}}
+
 public class abstraccion {
     public static void main(String[] args) {
+
         Animal perro = new Perro();
         perro.setNombre("Pablo");
         Animal gato = new Gato();
@@ -19,5 +21,10 @@ public class abstraccion {
 
         System.out.print("El perro  de nombre " + perro.getNombre() + " hace: ");perro.sonido();
         System.out.print("El gato de nombre " + gato.getNombre() + "hace: ");gato.sonido();
+        System.out.println("\n");
+
     }
 }
+
+
+
